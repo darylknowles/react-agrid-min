@@ -1,0 +1,641 @@
+{
+    "uid": 1001005856,
+    "has_photo": false,
+    "sale_id": 1000227051,
+    "venue_id": 1120,
+    "state": "TX",
+    "county": "Tarrant County",
+    "cause_nbr": "348-D03879-15",
+    "precinct": "3",
+    "sale_nbr": 24,
+    "sale_date": "7/3/2018",
+    "sale_date_only": "2018-07-03",
+    "sale_type": "SALE",
+    "status": "Sold",
+    "account_nbr": "07276427",
+    "street_name": "HANKINS DR",
+    "prop_address_one": "123 Hankins Dr",
+    "prop_address_two": "",
+    "prop_city": "Azle",
+    "prop_state": "TX",
+    "prop_zipcode": "76020",
+    "value": "1625.00",
+    "minimum_bid": "1625.00",
+    "book_nbr": null,
+    "sale_notes": "123 HANKINS DR; LAND ONLY; SOLD SUBJECT TO THE 2017 TAXES\n",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-97.535218, 32.878019]
+    },
+    "details": {
+        "uid": 1001005856,
+        "has_photo": false,
+        "faq": [{
+                "faq_type": "COUNTY",
+                "prompt": "Sale Location:",
+                "response": "at the East Entrance (Commerce Street) of the Courthouse of the said County, Tarrant County Courthouse, 100 W. Weatherford, in the City of Fort Worth, Texas",
+                "sort_order": 3
+            },
+            {
+                "faq_type": "COUNTY",
+                "prompt": "Sales are typically scheduled for:",
+                "response": "10:00",
+                "sort_order": 4
+            },
+            {
+                "faq_type": "COUNTY",
+                "prompt": "Notice of Sale will typically be posted on or in:",
+                "response": "For more information, contact the officer conducting the sale.",
+                "sort_order": 5
+            },
+            {
+                "faq_type": "COUNTY",
+                "prompt": "Payment must be made by:",
+                "response": "Cash, Check or Money Order. You will be allowed up to one hour after the sale to tender payment in the exact amount. Failure to immediately tender payment for all successful bids may subject a bidder to a civil monetary penalty, as provided by Rule 652, Texas Rules of Civil Procedure.",
+                "sort_order": 6
+            },
+            {
+                "faq_type": "COUNTY",
+                "prompt": "Payee:",
+                "response": "Constable Darrell Huffman",
+                "sort_order": 7
+            },
+            {
+                "faq_type": "COUNTY",
+                "prompt": "Bidder Registration:",
+                "response": "You must register prior to the sale.  The Bidders Registration Form is available on the website of the Tarrant County Constable, Precinct 3. You may submit the completed Registration Form on day of the sale.  If you are purchasing property in the name of a company, you must provide a copy of the Assumed Name Certificate, which can be obtained from the Tarrant County Clerk's website, or a Franchise Tax Account Status, with a list of the officers and Directors, which may be obtained from the Texas Comptroller's Office website. If you are not an officer or director of the company, you must also provide a letter on company letterhead and signed by an office or director, giving you authorization to bid on behalf of the company.",
+                "sort_order": 8
+            },
+            {
+                "faq_type": "COUNTY",
+                "prompt": "More information may be found at:",
+                "response": "www.tarrantcounty.com/eConstable3",
+                "sort_order": 9
+            },
+            {
+                "faq_type": "COUNTY",
+                "prompt": "Special Instructions:",
+                "response": "Persons who purchase Real Property at the sale are required to furnish to the officer conducting the sale, a Bidder Authorization Form, (statement of no taxes due) issued by the Tarrant County Tax Assessor Collector's Office, Tarrant County Administration Building, 1st Floor, 100 E. Weatherford St, Fort Worth, Texas, The form must be issued in the name of the person or entity bidding on the property. There will be a cost of $10.00 to issue the form. The amount of time required to obtain the form will be approximately 2 weeks from request to issuance.",
+                "sort_order": 10
+            }
+        ],
+        "sale_id": 1000227051,
+        "venue_id": 1120,
+        "lawsuit_id": 1001339573,
+        "property_id": 1001689883,
+        "state": "TX",
+        "county": "TARRANT COUNTY",
+        "cause_nbr": "348-D03879-15",
+        "court_nbr": "348",
+        "precinct": "3",
+        "case_style": "Tarrant County, Et Al Vs H O Hankins",
+        "legal_desc_l": "Lot 17, out of the Oaklawn Addition, situated in the City of Azle, Tarrant County, Texas and located within the Azle Independent School District, as shown by a deed of record in Volume 2238, Page 128 of the Deed Records of Tarrant County Texas.",
+        "legal_desc_s": "OAKLAWN ADDITION-AZLE LOT 17",
+        "judgment_date": "2018-02-26",
+        "sale_nbr": 24,
+        "sale_date": "2018-07-03T10:00:00",
+        "sale_date_only": "2018-07-03",
+        "sale_location": "at the East Entrance (Commerce Street) of the Courthouse of the said County, Tarrant County Courthouse, 100 W. Weatherford, in the City of Fort Worth, Texas",
+        "sale_type": "SALE",
+        "status": "Scheduled for Auction",
+        "account_nbr": "07276427",
+        "prop_type": "REAL PROPERTY",
+        "class_code": "",
+        "school_district": "Azle ISD",
+        "street_name": "HANKINS DR",
+        "prop_address_one": "123 Hankins Dr",
+        "prop_address_two": "",
+        "prop_city": "Azle",
+        "prop_state": "TX",
+        "prop_zipcode": "76020",
+        "address_full": "123 HANKINS DR, AZLE, TX 76020",
+        "value": "1625.00",
+        "minimum_bid": "1625.00",
+        "struck_off_date": null,
+        "struck_off_amt": null,
+        "book_nbr": null,
+        "writ_nbr": null,
+        "sale_notes": "123 HANKINS DR; LAND ONLY; SOLD SUBJECT TO THE 2017 TAXES\n",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-97.535218, 32.878019]
+        }
+    },
+    "hide": false,
+    "ignore": null,
+    "ExcessAmount": "3674.47",
+    "transactions": [{
+            "FileMark": "02-18-2015",
+            "Description": "ORIG PET                                          \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "02-18-2015",
+            "Description": "FILING OF TAX SUIT-REAL PROPERTY                  \n",
+            "Fee": "207.00",
+            "Amount": ""
+        },
+        {
+            "FileMark": "02-18-2015",
+            "Description": "E-FILE TRANSACTION FEE                            \n",
+            "Fee": "2.00",
+            "Amount": ""
+        },
+        {
+            "FileMark": "08-08-2016",
+            "Description": "ABSTRACTOR REQ                                    \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "08-08-2016",
+            "Description": "ABSTRACTOR-150 FEE                                \n",
+            "Fee": "150.00",
+            "Amount": ""
+        },
+        {
+            "FileMark": "08-08-2016",
+            "Description": "E-FILE TRANSACTION FEE                            \n",
+            "Fee": "2.00",
+            "Amount": ""
+        },
+        {
+            "FileMark": "08-17-2016",
+            "Description": "1ST AMD PET-TC, AZLE ISD                          \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "08-17-2016",
+            "Description": "E-FILE TRANSACTION FEE                            \n",
+            "Fee": "2.00",
+            "Amount": ""
+        },
+        {
+            "FileMark": "08-19-2016",
+            "Description": "CIT-CONST  W/SVC-ISSUED ON H O HANKINS-On         08/19/2016\n",
+            "Fee": "83.00",
+            "Amount": ""
+        },
+        {
+            "FileMark": "08-19-2016",
+            "Description": "***CIT-CONST- W/SVC                               \n",
+            "Fee": "83.00",
+            "Amount": ""
+        },
+        {
+            "FileMark": "08-19-2016",
+            "Description": "CIT-CONST- W/SVC                                  \n",
+            "Fee": "-83.00",
+            "Amount": ""
+        },
+        {
+            "FileMark": "08-29-2016",
+            "Description": "RET UNEXEC CIT-CONST W/SVC(H O HANKINS)CP4 VACANT /2016 Tr# 9\n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "08-30-2016",
+            "Description": "Adjustment for service fee from # 9               \n",
+            "Fee": "0.00",
+            "Amount": ""
+        },
+        {
+            "FileMark": "06-15-2017",
+            "Description": "ORD OF INTENT TO DWOP -8/3/2017                   \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "06-28-2017",
+            "Description": "2ND AMD PET-TC ET AL, AZLE ISD                    \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "06-28-2017",
+            "Description": "AFFDT FOR SVC OF CIT BY PUB                       \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "06-28-2017",
+            "Description": "(PROPOSED) CIT BY PUB                             \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "06-30-2017",
+            "Description": "CIT BY PUB-LGBS-ISSUED ON H O HANKINS-ON 06/30/20 \n",
+            "Fee": "165.00",
+            "Amount": ""
+        },
+        {
+            "FileMark": "07-07-2017",
+            "Description": "MTN W/ (PROPOSED) ORD TO RETAIN                   \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "07-14-2017",
+            "Description": "ORD TO RETAIN                                     \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "08-09-2017",
+            "Description": "RET EXEC CIT BY PUB-LGBS (H O HANKINS) On 08/08/2017 Tr# 18\n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "08-11-2017",
+            "Description": "(PROPOSED) ORD APPOINTING ATTY AD LITEM           \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "08-14-2017",
+            "Description": "ORD APPTING AAL -$350 (NO NAME FILLED OUT)        \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "08-18-2017",
+            "Description": "1ST AMD ORD APPTING AAL- DANIEL J SMITH           \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "08-23-2017",
+            "Description": "***AD-LITEM FEE - DANIEL J SMITH                  \n",
+            "Fee": "350.00",
+            "Amount": ""
+        },
+        {
+            "FileMark": "11-02-2017",
+            "Description": "NOT OF TRIAL SETTING-1/16/18 9:30AM 17TH CT       \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "11-08-2017",
+            "Description": "ORIG ANS-H O HANKINS                              \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "12-28-2017",
+            "Description": "REPORT OF AAL & MTN FOR AAL FEE                   \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "12-28-2017",
+            "Description": "(PROPOSED) ORD APPROVING PAYMENT OF AAL FEES      \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "01-08-2018",
+            "Description": "ORIG INTV-CITY OF AZLE                            \n",
+            "Fee": "80.00",
+            "Amount": ""
+        },
+        {
+            "FileMark": "01-08-2018",
+            "Description": "AFFDT                                             \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "01-11-2018",
+            "Description": "CERT OF DELINQUENT TAX ROLLS                      \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "01-16-2018",
+            "Description": "ORD APPROVING PAYMENT OF AAL FEES-DANIEL J SMITH  \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "01-16-2018",
+            "Description": "JDG-AGREED                                        \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "01-24-2018",
+            "Description": "AD-LITEM FEE - DANIEL J SMITH                     \n",
+            "Fee": "587.38",
+            "Amount": ""
+        },
+        {
+            "FileMark": "01-24-2018",
+            "Description": "Adjustment for # 25 CHANGE IN FEE                 \n",
+            "Fee": "-350.00",
+            "Amount": ""
+        },
+        {
+            "FileMark": "02-21-2018",
+            "Description": "(PROPOSED) NUNC PRO TUNC JDG                      \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "02-26-2018",
+            "Description": "NUNC PRO TUNC JDG                                 \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "05-07-2018",
+            "Description": "ORDER OF SALE-LGBS-ISSUED ON TARRANT COUNTY       \n",
+            "Fee": "8.00",
+            "Amount": ""
+        },
+        {
+            "FileMark": "07-13-2018",
+            "Description": "COURT COST PAID BY DARRELL HUFFMAN CP3            \n",
+            "Fee": "",
+            "Amount": "1,286.38"
+        },
+        {
+            "FileMark": "07-13-2018",
+            "Description": "REGISTRY FUNDS - CHECK ACCOUNT #4                 \n",
+            "Fee": "",
+            "Amount": "3,674.47"
+        },
+        {
+            "FileMark": "07-13-2018",
+            "Description": "RET O/S-SOLD-LAKSH INVESTMENTS($340CP3 $99ATTY)   \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "07-16-2018",
+            "Description": "Registry Investment                               \n",
+            "Fee": "",
+            "Amount": "-3,674.47"
+        },
+        {
+            "FileMark": "07-19-2018",
+            "Description": "NOTICE OF EXCESS FUNDS-DANIEL J SMITH, ATTY       \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "07-24-2018",
+            "Description": "CERT MAIL RECEIPT/ C/O DANIEL J SMITH ATTY EXC    \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "07-26-2018",
+            "Description": "RET NOT(EX-DANIEL J SMITH, ATTY) 7/26/18          \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "08-22-2018",
+            "Description": "Excess Proceeds Letter to Court-Emailed on 08/22/2018\n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "08-24-2018",
+            "Description": "DOCKET SHEET                                      \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "08-24-2018",
+            "Description": "ORD APPTING AAL -TOM CARR                         \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "08-27-2018",
+            "Description": "$$$-PAYOUT IN PROCESS-$$$ LGBS                    \n",
+            "Fee": "",
+            "Amount": "0.00"
+        },
+        {
+            "FileMark": "08-30-2018",
+            "Description": "***AD-LITEM FEE - VARIES                          \n",
+            "Fee": "450.00",
+            "Amount": ""
+        },
+        {
+            "FileMark": "08-30-2018",
+            "Description": "***AD-LITEM FEE - VARIES                          \n",
+            "Fee": "-450.00",
+            "Amount": ""
+        },
+        {
+            "FileMark": "08-31-2018",
+            "Description": "TAX DISBURSE MAY 18 LGBS Check # 49300            \n",
+            "Fee": "",
+            "Amount": "-587.38"
+        },
+        {
+            "FileMark": "08-31-2018",
+            "Description": "TAX DISBURSE MAY 18 LGBS Check # 49300            \n",
+            "Fee": "",
+            "Amount": "-150.00"
+        },
+        {
+            "FileMark": "08-31-2018",
+            "Description": "TAX DISBURSE MAY 18 LGBS Check # 49300            \n",
+            "Fee": "",
+            "Amount": "-82.00"
+        }
+    ],
+    "parties": [{
+            "type": "PLTF",
+            "name": "AZLE INDEPENDENT SCHOOL DISTRICT                  ",
+            "status": "ACT ",
+            "atty": "MEEKS, STEPHEN T                                  ",
+            "barid": "13901100TX",
+            "attystatus": "JDG ",
+            "attyphone": "817-877-4589",
+            "Mail": false,
+            "PartyName": "Azle Independent School District                  ",
+            "PartyNumber": "",
+            "PartyType": "PLAINTIFF",
+            "PartyStatus": "ACT ",
+            "AttorneyName": "Meeks, Stephen T                                  ",
+            "AttorneyStatus": "JDG ",
+            "FirmPhone": "817-877-4589"
+        },
+        {
+            "type": "PREF",
+            "name": "CARR, TOM                                         ",
+            "status": "ACT ",
+            "atty": "CARR, TOM                                         ",
+            "barid": "03862800TX",
+            "attystatus": "ADL ",
+            "attyphone": "817-885-8500",
+            "Mail": true,
+            "PartyName": "Carr, Tom",
+            "PartyNumber": "8",
+            "PartyType": "PARTY FOR REFERENCE ONLY",
+            "PartyRelationship": "",
+            "PartyStatus": "ACTIVE",
+            "Address": "",
+            "Address2": "",
+            "City": "",
+            "State": "",
+            "Zip": "",
+            "Phone": "",
+            "AttorneyName": "Carr, Tom",
+            "AttorneyEmail": "TOM@TOMCARRLAW.COM",
+            "AttorneyStatus": "AD LITEM",
+            "FirmName": "Law Office Of Tom Carr",
+            "FirmAddress": "2501 PARKVIEW DR STE 405",
+            "FirmCity": "Fort Worth",
+            "FirmState": "TX",
+            "FirmZip": "76102-5816",
+            "FirmPhone": "817-885-8500",
+            "FirmFax": "817-885-8504",
+            "Ignore": null
+        },
+        {
+            "type": "INTV",
+            "name": "CITY OF AZLE                                      ",
+            "status": "ACT ",
+            "atty": "CRAWFORD, DAVID S                                 ",
+            "barid": "00789240TX",
+            "attystatus": "JDG ",
+            "attyphone": "817-461-3344",
+            "Mail": true,
+            "PartyName": "City Of Azle",
+            "PartyNumber": "7",
+            "PartyType": "INTERVENOR",
+            "PartyRelationship": "",
+            "PartyStatus": "ACTIVE",
+            "Address": "",
+            "Address2": "",
+            "City": "",
+            "State": "",
+            "Zip": "",
+            "Phone": "",
+            "AttorneyName": "Crawford, David S",
+            "AttorneyEmail": "DCRAWFORD@PBFCM.COM",
+            "AttorneyStatus": "JUDGMENT/ORDER",
+            "FirmName": "Perdue Brandon Fielder Collins & Mott Llp",
+            "FirmAddress": "500 E BORDER ST STE 640",
+            "FirmCity": "Arlington",
+            "FirmState": "TX",
+            "FirmZip": "76010-7457",
+            "FirmPhone": "817-461-3344",
+            "FirmFax": "817-860-6509",
+            "Ignore": null
+        },
+        {
+            "type": "DEFN",
+            "name": "HANKINS, H O                                      ",
+            "status": "ACT ",
+            "atty": "SMITH, DANIEL J                                   ",
+            "barid": "18557100TX",
+            "attystatus": "JDL ",
+            "attyphone": "817-877-5750",
+            "Mail": true,
+            "PartyName": "Hankins, H O",
+            "PartyNumber": "6",
+            "PartyType": "DEFENDANT",
+            "PartyRelationship": "",
+            "PartyStatus": "ACTIVE",
+            "Address": "",
+            "Address2": "",
+            "City": "",
+            "State": "",
+            "Zip": "",
+            "Phone": "",
+            "AttorneyName": "Smith, Daniel J",
+            "AttorneyEmail": "DSMITH@SMITHSMITH-LAW.COM",
+            "AttorneyStatus": "JUDGMENT",
+            "FirmName": "Smith & Smith",
+            "FirmAddress": "6040 CAMP BOWIE BLVD, STE 14",
+            "FirmCity": "Fort Worth",
+            "FirmState": "TX",
+            "FirmZip": "76116",
+            "FirmPhone": "817-877-5750",
+            "FirmFax": "817-877-8899",
+            "Ignore": null
+        },
+        {
+            "type": "PLTF",
+            "name": "TARRANT COUNTY                                    ",
+            "status": "ACT ",
+            "atty": "MEEKS, STEPHEN T                                  ",
+            "barid": "13901100TX",
+            "attystatus": "JDG ",
+            "attyphone": "817-877-4589",
+            "Mail": false,
+            "PartyName": "Tarrant County                                    ",
+            "PartyNumber": "",
+            "PartyType": "PLAINTIFF",
+            "PartyStatus": "ACT ",
+            "AttorneyName": "Meeks, Stephen T                                  ",
+            "AttorneyStatus": "JDG ",
+            "FirmPhone": "817-877-4589"
+        },
+        {
+            "type": "PLTF",
+            "name": "TARRANT COUNTY COLLEGE DISTRICT                   ",
+            "status": "ACT ",
+            "atty": "MEEKS, STEPHEN T                                  ",
+            "barid": "13901100TX",
+            "attystatus": "JDG ",
+            "attyphone": "817-877-4589",
+            "Mail": false,
+            "PartyName": "Tarrant County College District                   ",
+            "PartyNumber": "",
+            "PartyType": "PLAINTIFF",
+            "PartyStatus": "ACT ",
+            "AttorneyName": "Meeks, Stephen T                                  ",
+            "AttorneyStatus": "JDG ",
+            "FirmPhone": "817-877-4589"
+        },
+        {
+            "type": "PLTF",
+            "name": "TARRANT COUNTY HOSPITAL DISTRICT                  ",
+            "status": "ACT ",
+            "atty": "MEEKS, STEPHEN T                                  ",
+            "barid": "13901100TX",
+            "attystatus": "JDG ",
+            "attyphone": "817-877-4589",
+            "Mail": false,
+            "PartyName": "Tarrant County Hospital District                  ",
+            "PartyNumber": "",
+            "PartyType": "PLAINTIFF",
+            "PartyStatus": "ACT ",
+            "AttorneyName": "Meeks, Stephen T                                  ",
+            "AttorneyStatus": "JDG ",
+            "FirmPhone": "817-877-4589"
+        },
+        {
+            "type": "PLTF",
+            "name": "TARRANT REGIONAL WATER DISTRICT                   ",
+            "status": "ACT ",
+            "atty": "MEEKS, STEPHEN T                                  ",
+            "barid": "13901100TX",
+            "attystatus": "JDG ",
+            "attyphone": "817-877-4589",
+            "Mail": false,
+            "PartyName": "Tarrant Regional Water District                   ",
+            "PartyNumber": "",
+            "PartyType": "PLAINTIFF",
+            "PartyStatus": "ACT ",
+            "AttorneyName": "Meeks, Stephen T                                  ",
+            "AttorneyStatus": "JDG ",
+            "FirmPhone": "817-877-4589"
+        }
+    ],
+    "balance": "-819.38"
+}

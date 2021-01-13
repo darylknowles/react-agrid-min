@@ -1,0 +1,1120 @@
+{
+    "original": {
+        "uid": 1005084174,
+        "has_photo": false,
+        "sale_id": 1000227158,
+        "venue_id": 1120,
+        "state": "TX",
+        "county": "Tarrant County",
+        "cause_nbr": "236-E24089-08",
+        "precinct": "3",
+        "sale_nbr": 58,
+        "sale_date": "7/3/2018",
+        "sale_date_only": "2018-07-03",
+        "sale_type": "SALE",
+        "status": "Sold",
+        "account_nbr": "04600258",
+        "street_name": "PARK DR",
+        "prop_address_one": "0000 Park Dr",
+        "prop_address_two": "",
+        "prop_city": "Fort Worth",
+        "prop_state": "TX",
+        "prop_zipcode": "76179",
+        "value": "10183.00",
+        "minimum_bid": "9675.60",
+        "book_nbr": null,
+        "sale_notes": "0000 PARK DR; LAND ONLY; SOLD SUBJECT TO THE 2015-2017 TAXES",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-97.4181, 32.88836]
+        },
+        "details": {
+            "uid": 1005084174,
+            "has_photo": false,
+            "faq": [{
+                "faq_type": "COUNTY",
+                "prompt": "Sale Location:",
+                "response": "at the East Entrance (Commerce Street) of the Courthouse of the said County, Tarrant County Courthouse, 100 W. Weatherford, in the City of Fort Worth, Texas",
+                "sort_order": 3
+            }, {
+                "faq_type": "COUNTY",
+                "prompt": "Sales are typically scheduled for:",
+                "response": "10:00",
+                "sort_order": 4
+            }, {
+                "faq_type": "COUNTY",
+                "prompt": "Notice of Sale will typically be posted on or in:",
+                "response": "For more information, contact the officer conducting the sale.",
+                "sort_order": 5
+            }, {
+                "faq_type": "COUNTY",
+                "prompt": "Payment must be made by:",
+                "response": "Cash, Check or Money Order. You will be allowed up to one hour after the sale to tender payment in the exact amount. Failure to immediately tender payment for all successful bids may subject a bidder to a civil monetary penalty, as provided by Rule 652, Texas Rules of Civil Procedure.",
+                "sort_order": 6
+            }, {
+                "faq_type": "COUNTY",
+                "prompt": "Payee:",
+                "response": "Constable Darrell Huffman",
+                "sort_order": 7
+            }, {
+                "faq_type": "COUNTY",
+                "prompt": "Bidder Registration:",
+                "response": "You must register prior to the sale. The Bidders Registration Form is available on the website of the Tarrant County Constable, Precinct 3. You may submit the completed Registration Form on day of the sale. If you are purchasing property in the name of a company, you must provide a copy of the Assumed Name Certificate, which can be obtained from the Tarrant County Clerk's website, or a Franchise Tax Account Status, with a list of the officers and Directors, which may be obtained from the Texas Comptroller's Office website. If you are not an officer or director of the company, you must also provide a letter on company letterhead and signed by an office or director, giving you authorization to bid on behalf of the company.",
+                "sort_order": 8
+            }, {
+                "faq_type": "COUNTY",
+                "prompt": "More information may be found at:",
+                "response": "www.tarrantcounty.com/eConstable3",
+                "sort_order": 9
+            }, {
+                "faq_type": "COUNTY",
+                "prompt": "Special Instructions:",
+                "response": "Persons who purchase Real Property at the sale are required to furnish to the officer conducting the sale, a Bidder Authorization Form, (statement of no taxes due) issued by the Tarrant County Tax Assessor Collector's Office, Tarrant County Administration Building, 1st Floor, 100 E. Weatherford St, Fort Worth, Texas, The form must be issued in the name of the person or entity bidding on the property. There will be a cost of $10.00 to issue the form. The amount of time required to obtain the form will be approximately 2 weeks from request to issuance.",
+                "sort_order": 10
+            }],
+            "sale_id": 1000227158,
+            "venue_id": 1120,
+            "lawsuit_id": 1000832473,
+            "property_id": 1000981938,
+            "state": "TX",
+            "county": "TARRANT COUNTY",
+            "cause_nbr": "236-E24089-08",
+            "court_nbr": "236",
+            "precinct": "3",
+            "case_style": "County Of Tarrant, Et Al Vs Richard Hutton, Et Al",
+            "legal_desc_l": "Being .56571 acres, more or less, out of the Benjamin Thomas Survey, Abstract 1497 a/k/a Tract 5C, situated in the City of Fort Worth, Tarrant County, Texas and located within the Eagle Mountain-Saginaw Independent School District, as shown by a deed of record at Volume 12948, Page 282 of the Deed Records of Tarrant County, Texas.",
+            "legal_desc_s": "THOMAS, BENJAMIN SURVEY ABSTRACT 1497 TRACT 5C",
+            "judgment_date": "2015-04-24",
+            "sale_nbr": 58,
+            "sale_date": "2018-07-03T10:00:00",
+            "sale_date_only": "2018-07-03",
+            "sale_location": "at the East Entrance (Commerce Street) of the Courthouse of the said County, Tarrant County Courthouse, 100 W. Weatherford, in the City of Fort Worth, Texas",
+            "sale_type": "SALE",
+            "status": "Scheduled for Auction",
+            "account_nbr": "04600258",
+            "prop_type": "REAL PROPERTY",
+            "class_code": "",
+            "school_district": "Eagle Mountain-Saginaw ISD",
+            "street_name": "PARK DR",
+            "prop_address_one": "0000 Park Dr",
+            "prop_address_two": "",
+            "prop_city": "Fort Worth",
+            "prop_state": "TX",
+            "prop_zipcode": "76179",
+            "address_full": "0000 PARK DR, FORT WORTH, TX 76179",
+            "value": "10183.00",
+            "minimum_bid": "9675.60",
+            "struck_off_date": null,
+            "struck_off_amt": null,
+            "book_nbr": null,
+            "writ_nbr": null,
+            "sale_notes": "0000 PARK DR; LAND ONLY; SOLD SUBJECT TO THE 2015-2017 TAXES",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-97.4181, 32.88836]
+            }
+        },
+        "hide": false,
+        "ignore": null,
+        "ExcessAmount": "1.40",
+        "transactions": [{
+            "FileMark": "08-15-2008",
+            "Description": "ORIG PET \n",
+            "Fee": "167.00",
+            "Amount": ""
+        }, {
+            "FileMark": "08-15-2008",
+            "Description": "ABSTRACTOR-150 J/M \n",
+            "Fee": "150.00",
+            "Amount": ""
+        }, {
+            "FileMark": "08-18-2008",
+            "Description": "CIT-C/M- RICHARD HUTTON \n",
+            "Fee": "58.00",
+            "Amount": ""
+        }, {
+            "FileMark": "08-18-2008",
+            "Description": "CIT-C/M- PATRICIA HUTTON \n",
+            "Fee": "58.00",
+            "Amount": ""
+        }, {
+            "FileMark": "09-08-2008",
+            "Description": "Ret Cit (Unex-PATRICIA HUTTON/UNCLAIMED) C/M \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "09-08-2008",
+            "Description": "Ret Cit (Unex-RICHARD HUTTON/UNCLAIMED) C/M \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "09-23-2008",
+            "Description": "PLEA OF INTERVENTION-EAGLE MOUNTAIN-SAGINAW ISD \n",
+            "Fee": "35.00",
+            "Amount": ""
+        }, {
+            "FileMark": "07-16-2009",
+            "Description": "CIT-CONST W/SVC-ISSUED ON PATRICIA HUTTON-On 07/16/2009\n",
+            "Fee": "58.00",
+            "Amount": ""
+        }, {
+            "FileMark": "07-16-2009",
+            "Description": "CIT-CONST W/SVC-ISSUED ON RICHARD HUTTON-On 07/16/2009\n",
+            "Fee": "58.00",
+            "Amount": ""
+        }, {
+            "FileMark": "07-31-2009",
+            "Description": "RET CIT (UNEX-RICHARD HUTTON) MOVED CP4 \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "07-31-2009",
+            "Description": "RET CIT (UNEX-PATRICIA HUTTON) MOVED CP4 \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "08-03-2009",
+            "Description": "Adjustment for service fee from # 9 \n",
+            "Fee": "0.00",
+            "Amount": ""
+        }, {
+            "FileMark": "08-03-2009",
+            "Description": "Adjustment for service fee from # 8 \n",
+            "Fee": "0.00",
+            "Amount": ""
+        }, {
+            "FileMark": "03-04-2010",
+            "Description": "CIT-C/M- PATRICIA HUTTON \n",
+            "Fee": "58.00",
+            "Amount": ""
+        }, {
+            "FileMark": "03-26-2010",
+            "Description": "RET CIT (UNEX-PATRICIA HUTTON) UNC/UTF C/M \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "11-18-2010",
+            "Description": "RETAIN LETTER \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "11-02-2011",
+            "Description": "PLTF 1ST AMEND PET TC ET AL \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "11-02-2011",
+            "Description": "AFFDT FOR CIT BY PUB RICHARD HUTTON,PATRICIA HUTTON\n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "11-09-2011",
+            "Description": "CIT BY PUB RICHARD HUTTON,PATRICIA HUTTON \n",
+            "Fee": "140.00",
+            "Amount": ""
+        }, {
+            "FileMark": "11-18-2011",
+            "Description": "RETAIN LETTER \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "12-29-2011",
+            "Description": "CIT BY PUB RICHARD HUTTON,PATRICIA HUTTON RET EXE 12/29/11\n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "02-21-2012",
+            "Description": "RECLASS TO ABSTRACTOR FEE CATEG \n",
+            "Fee": "0.00",
+            "Amount": ""
+        }, {
+            "FileMark": "11-15-2012",
+            "Description": "RETAIN LETTER \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "11-07-2013",
+            "Description": "RETAIN LETTER \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "08-22-2014",
+            "Description": "(PROPOSED)ORD APPTING AAL \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "08-22-2014",
+            "Description": "E-FILE TRANSACTION FEE \n",
+            "Fee": "2.00",
+            "Amount": ""
+        }, {
+            "FileMark": "08-28-2014",
+            "Description": "(Final) ORD TO APPT ATTY AAL - Tom Carr \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "08-28-2014",
+            "Description": "AD-LITEM FEE - ($350) \n",
+            "Fee": "350.00",
+            "Amount": ""
+        }, {
+            "FileMark": "09-08-2014",
+            "Description": "DEFN ORIG ANS RICHARD HUTTON AND PATRICIA HUTTON \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "09-08-2014",
+            "Description": "E-FILE TRANSACTION FEE \n",
+            "Fee": "2.00",
+            "Amount": ""
+        }, {
+            "FileMark": "09-08-2014",
+            "Description": "COURT COST (PAID) TRANS #30 \n",
+            "Fee": "",
+            "Amount": "2.00"
+        }, {
+            "FileMark": "10-22-2014",
+            "Description": "INTV PLTF 1ST AMD PET-EAGLE MOUNTAIN-SAGINAW ISD \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "10-22-2014",
+            "Description": "***INTERVENTION FEE \n",
+            "Fee": "65.00",
+            "Amount": ""
+        }, {
+            "FileMark": "10-22-2014",
+            "Description": "E-FILE TRANSACTION FEE \n",
+            "Fee": "2.00",
+            "Amount": ""
+        }, {
+            "FileMark": "10-24-2014",
+            "Description": "CIT-CONST W/SVC-ISSUED ON ADEBOLA OLATUNJI-On 10/24/2014\n",
+            "Fee": "83.00",
+            "Amount": ""
+        }, {
+            "FileMark": "11-20-2014",
+            "Description": "ORD TO RETAIN - LGBS \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "11-20-2014",
+            "Description": "RET EXEC CIT(ADEBOLA OLATUNJI)CP3 11/18/14 \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "12-11-2014",
+            "Description": "MTN FOR PARTIAL DISM-ADEBOLA OLATUNJI \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "12-11-2014",
+            "Description": "(PROPOSED)ORD FOR PARTIAL DISM \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "12-11-2014",
+            "Description": "E-FILE TRANSACTION FEE \n",
+            "Fee": "2.00",
+            "Amount": ""
+        }, {
+            "FileMark": "12-12-2014",
+            "Description": "ORD FOR PARTIAL DISM(FINAL)ADEBOLA OLATUNJI \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "12-26-2014",
+            "Description": "Adjustment for service fee from # 35 \n",
+            "Fee": "0.00",
+            "Amount": ""
+        }, {
+            "FileMark": "01-28-2015",
+            "Description": "NOT OF TRIAL SETTING-4/16/15 @ 10:30AM \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "01-28-2015",
+            "Description": "E-FILE TRANSACTION FEE \n",
+            "Fee": "2.00",
+            "Amount": ""
+        }, {
+            "FileMark": "04-24-2015",
+            "Description": "JDG-FINAL JDG AFTER NON JURY TRIAL Plaintiff and/or Intervenor exhibit\n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "02-28-2018",
+            "Description": "CVR LTR FOR NUNC PRO TUNC \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "02-28-2018",
+            "Description": "(PROPOSED) NUNC PRO TUNC \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "03-01-2018",
+            "Description": "NUNC PRO TUNC JDG \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "03-01-2018",
+            "Description": "DOCKET SHEET \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "05-04-2018",
+            "Description": "**ADJ FOR #33 SHOULDN'T CHARGE FOR AMDED INTV \n",
+            "Fee": "-65.00",
+            "Amount": ""
+        }, {
+            "FileMark": "05-08-2018",
+            "Description": "ORDER OF SALE-LGBS-ISSUED ON COUNTY OF TARRANT \n",
+            "Fee": "8.00",
+            "Amount": ""
+        }, {
+            "FileMark": "07-13-2018",
+            "Description": "COURT COST PAID BY DARRELL HUFFMAN CP3 \n",
+            "Fee": "",
+            "Amount": "1,231.00"
+        }, {
+            "FileMark": "07-13-2018",
+            "Description": "REGISTRY FUNDS - CHECK ACCOUNT #4 \n",
+            "Fee": "",
+            "Amount": "1.40"
+        }, {
+            "FileMark": "07-13-2018",
+            "Description": "RET O/S-SOLD-LAKSH INVESTMENTS($340CP3 $99ATTY) \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "07-16-2018",
+            "Description": "Registry Investment \n",
+            "Fee": "",
+            "Amount": "-1.40"
+        }, {
+            "FileMark": "08-27-2018",
+            "Description": "$$$-PAYOUT IN PROCESS-$$$ LGBS \n",
+            "Fee": "",
+            "Amount": "0.00"
+        }, {
+            "FileMark": "08-31-2018",
+            "Description": "TAX DISBURSE MAY 18 LGBS Check # 49300 \n",
+            "Fee": "",
+            "Amount": "-350.00"
+        }, {
+            "FileMark": "08-31-2018",
+            "Description": "TAX DISBURSE MAY 18 LGBS Check # 49300 \n",
+            "Fee": "",
+            "Amount": "-150.00"
+        }, {
+            "FileMark": "08-31-2018",
+            "Description": "TAX DISBURSE MAY 18 LGBS Check # 49300 \n",
+            "Fee": "",
+            "Amount": "-82.00"
+        }],
+        "parties": [{
+            "type": "PLTF",
+            "name": "COUNTY OF TARRANT ",
+            "status": "ACT ",
+            "atty": "MEEKS, STEPHEN T ",
+            "barid": "13901100TX",
+            "attystatus": "JDG ",
+            "attyphone": "817-877-4589",
+            "Mail": false,
+            "PartyName": "County Of Tarrant ",
+            "PartyNumber": "",
+            "PartyType": "PLAINTIFF",
+            "PartyStatus": "ACT ",
+            "AttorneyName": "Meeks, Stephen T ",
+            "AttorneyStatus": "JDG ",
+            "FirmPhone": "817-877-4589"
+        }, {
+            "type": "INTV",
+            "name": "EAGLE MOUNATAIN-SAGINAW ISD ",
+            "status": "ACT ",
+            "atty": "STAVINOHA, B LYNN ",
+            "barid": "19085800TX",
+            "attystatus": "JDG ",
+            "attyphone": "817-461-3344",
+            "Mail": true,
+            "PartyName": "Eagle Mounatain-saginaw Isd",
+            "PartyNumber": "4",
+            "PartyType": "INTERVENOR",
+            "PartyRelationship": "",
+            "PartyStatus": "ACTIVE",
+            "Address": "",
+            "Address2": "",
+            "City": "",
+            "State": "",
+            "Zip": "",
+            "Phone": "",
+            "AttorneyName": "Stavinoha, B Lynn",
+            "AttorneyEmail": "LSTAVINOHA@PBFCM.COM",
+            "AttorneyStatus": "JUDGMENT/ORDER",
+            "FirmName": "Perdue Brandon Fielder Collins & Mott Llp",
+            "FirmAddress": "P O BOX 13430",
+            "FirmCity": "Arlington",
+            "FirmState": "TX",
+            "FirmZip": "76094-0430",
+            "FirmPhone": "817-461-3344",
+            "FirmFax": "817-860-6509",
+            "Ignore": null
+        }, {
+            "type": "DEFN",
+            "name": "HUTTON, PATRICIA ",
+            "status": "ACT ",
+            "atty": "CARR, TOM ",
+            "barid": "03862800TX",
+            "attystatus": "JDL ",
+            "attyphone": "817-885-8500",
+            "Mail": true,
+            "PartyName": "Hutton, Patricia",
+            "PartyNumber": "3",
+            "PartyType": "DEFENDANT",
+            "PartyRelationship": "",
+            "PartyStatus": "ACTIVE",
+            "Address": "9600 Park Drive",
+            "Address2": "",
+            "City": "Fort Worth",
+            "State": "TX",
+            "Zip": "76179-5221",
+            "Phone": "",
+            "AttorneyName": "Carr, Tom",
+            "AttorneyEmail": "TOM@TOMCARRLAW.COM",
+            "AttorneyStatus": "JUDGMENT",
+            "FirmName": "Law Office Of Tom Carr",
+            "FirmAddress": "2501 PARKVIEW DR STE 405",
+            "FirmCity": "Fort Worth",
+            "FirmState": "TX",
+            "FirmZip": "76102-5816",
+            "FirmPhone": "817-885-8500",
+            "FirmFax": "817-885-8504",
+            "Ignore": null
+        }, {
+            "type": "DEFN",
+            "name": "HUTTON, RICHARD ",
+            "status": "ACT ",
+            "atty": "CARR, TOM ",
+            "barid": "03862800TX",
+            "attystatus": "JDL ",
+            "attyphone": "817-885-8500",
+            "Mail": true,
+            "PartyName": "Hutton, Richard",
+            "PartyNumber": "2",
+            "PartyType": "DEFENDANT",
+            "PartyRelationship": "",
+            "PartyStatus": "ACTIVE",
+            "Address": "9600 Park Dr",
+            "Address2": "",
+            "City": "Fort Worth",
+            "State": "TX",
+            "Zip": "76179-5221",
+            "Phone": "",
+            "AttorneyName": "Carr, Tom",
+            "AttorneyEmail": "TOM@TOMCARRLAW.COM",
+            "AttorneyStatus": "JUDGMENT",
+            "FirmName": "Law Office Of Tom Carr",
+            "FirmAddress": "2501 PARKVIEW DR STE 405",
+            "FirmCity": "Fort Worth",
+            "FirmState": "TX",
+            "FirmZip": "76102-5816",
+            "FirmPhone": "817-885-8500",
+            "FirmFax": "817-885-8504",
+            "Ignore": null
+        }, {
+            "type": "DEFN",
+            "name": "OLATUNJI, ADEBOLA ",
+            "status": "DIS ",
+            "atty": "",
+            "barid": "",
+            "attystatus": "",
+            "attyphone": "",
+            "Mail": true,
+            "PartyName": "Olatunji, Adebola",
+            "PartyNumber": "5",
+            "PartyType": "DEFENDANT",
+            "PartyRelationship": "",
+            "PartyStatus": "DISMISSED OR NON-SUITED",
+            "Address": "6700 David Ln",
+            "Address2": "",
+            "City": "Colleyville",
+            "State": "TX",
+            "Zip": "76034",
+            "Phone": "",
+            "Ignore": null
+        }],
+        "balance": "-582.00"
+    },
+    "row": {
+        "_original": {
+            "uid": 1005084174,
+            "has_photo": false,
+            "sale_id": 1000227158,
+            "venue_id": 1120,
+            "state": "TX",
+            "county": "Tarrant County",
+            "cause_nbr": "236-E24089-08",
+            "precinct": "3",
+            "sale_nbr": 58,
+            "sale_date": "7/3/2018",
+            "sale_date_only": "2018-07-03",
+            "sale_type": "SALE",
+            "status": "Sold",
+            "account_nbr": "04600258",
+            "street_name": "PARK DR",
+            "prop_address_one": "0000 Park Dr",
+            "prop_address_two": "",
+            "prop_city": "Fort Worth",
+            "prop_state": "TX",
+            "prop_zipcode": "76179",
+            "value": "10183.00",
+            "minimum_bid": "9675.60",
+            "book_nbr": null,
+            "sale_notes": "0000 PARK DR; LAND ONLY; SOLD SUBJECT TO THE 2015-2017 TAXES",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-97.4181, 32.88836]
+            },
+            "details": {
+                "uid": 1005084174,
+                "has_photo": false,
+                "faq": [{
+                    "faq_type": "COUNTY",
+                    "prompt": "Sale Location:",
+                    "response": "at the East Entrance (Commerce Street) of the Courthouse of the said County, Tarrant County Courthouse, 100 W. Weatherford, in the City of Fort Worth, Texas",
+                    "sort_order": 3
+                }, {
+                    "faq_type": "COUNTY",
+                    "prompt": "Sales are typically scheduled for:",
+                    "response": "10:00",
+                    "sort_order": 4
+                }, {
+                    "faq_type": "COUNTY",
+                    "prompt": "Notice of Sale will typically be posted on or in:",
+                    "response": "For more information, contact the officer conducting the sale.",
+                    "sort_order": 5
+                }, {
+                    "faq_type": "COUNTY",
+                    "prompt": "Payment must be made by:",
+                    "response": "Cash, Check or Money Order. You will be allowed up to one hour after the sale to tender payment in the exact amount. Failure to immediately tender payment for all successful bids may subject a bidder to a civil monetary penalty, as provided by Rule 652, Texas Rules of Civil Procedure.",
+                    "sort_order": 6
+                }, {
+                    "faq_type": "COUNTY",
+                    "prompt": "Payee:",
+                    "response": "Constable Darrell Huffman",
+                    "sort_order": 7
+                }, {
+                    "faq_type": "COUNTY",
+                    "prompt": "Bidder Registration:",
+                    "response": "You must register prior to the sale. The Bidders Registration Form is available on the website of the Tarrant County Constable, Precinct 3. You may submit the completed Registration Form on day of the sale. If you are purchasing property in the name of a company, you must provide a copy of the Assumed Name Certificate, which can be obtained from the Tarrant County Clerk's website, or a Franchise Tax Account Status, with a list of the officers and Directors, which may be obtained from the Texas Comptroller's Office website. If you are not an officer or director of the company, you must also provide a letter on company letterhead and signed by an office or director, giving you authorization to bid on behalf of the company.",
+                    "sort_order": 8
+                }, {
+                    "faq_type": "COUNTY",
+                    "prompt": "More information may be found at:",
+                    "response": "www.tarrantcounty.com/eConstable3",
+                    "sort_order": 9
+                }, {
+                    "faq_type": "COUNTY",
+                    "prompt": "Special Instructions:",
+                    "response": "Persons who purchase Real Property at the sale are required to furnish to the officer conducting the sale, a Bidder Authorization Form, (statement of no taxes due) issued by the Tarrant County Tax Assessor Collector's Office, Tarrant County Administration Building, 1st Floor, 100 E. Weatherford St, Fort Worth, Texas, The form must be issued in the name of the person or entity bidding on the property. There will be a cost of $10.00 to issue the form. The amount of time required to obtain the form will be approximately 2 weeks from request to issuance.",
+                    "sort_order": 10
+                }],
+                "sale_id": 1000227158,
+                "venue_id": 1120,
+                "lawsuit_id": 1000832473,
+                "property_id": 1000981938,
+                "state": "TX",
+                "county": "TARRANT COUNTY",
+                "cause_nbr": "236-E24089-08",
+                "court_nbr": "236",
+                "precinct": "3",
+                "case_style": "County Of Tarrant, Et Al Vs Richard Hutton, Et Al",
+                "legal_desc_l": "Being .56571 acres, more or less, out of the Benjamin Thomas Survey, Abstract 1497 a/k/a Tract 5C, situated in the City of Fort Worth, Tarrant County, Texas and located within the Eagle Mountain-Saginaw Independent School District, as shown by a deed of record at Volume 12948, Page 282 of the Deed Records of Tarrant County, Texas.",
+                "legal_desc_s": "THOMAS, BENJAMIN SURVEY ABSTRACT 1497 TRACT 5C",
+                "judgment_date": "2015-04-24",
+                "sale_nbr": 58,
+                "sale_date": "2018-07-03T10:00:00",
+                "sale_date_only": "2018-07-03",
+                "sale_location": "at the East Entrance (Commerce Street) of the Courthouse of the said County, Tarrant County Courthouse, 100 W. Weatherford, in the City of Fort Worth, Texas",
+                "sale_type": "SALE",
+                "status": "Scheduled for Auction",
+                "account_nbr": "04600258",
+                "prop_type": "REAL PROPERTY",
+                "class_code": "",
+                "school_district": "Eagle Mountain-Saginaw ISD",
+                "street_name": "PARK DR",
+                "prop_address_one": "0000 Park Dr",
+                "prop_address_two": "",
+                "prop_city": "Fort Worth",
+                "prop_state": "TX",
+                "prop_zipcode": "76179",
+                "address_full": "0000 PARK DR, FORT WORTH, TX 76179",
+                "value": "10183.00",
+                "minimum_bid": "9675.60",
+                "struck_off_date": null,
+                "struck_off_amt": null,
+                "book_nbr": null,
+                "writ_nbr": null,
+                "sale_notes": "0000 PARK DR; LAND ONLY; SOLD SUBJECT TO THE 2015-2017 TAXES",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-97.4181, 32.88836]
+                }
+            },
+            "hide": false,
+            "ignore": null,
+            "ExcessAmount": "1.40",
+            "transactions": [{
+                "FileMark": "08-15-2008",
+                "Description": "ORIG PET \n",
+                "Fee": "167.00",
+                "Amount": ""
+            }, {
+                "FileMark": "08-15-2008",
+                "Description": "ABSTRACTOR-150 J/M \n",
+                "Fee": "150.00",
+                "Amount": ""
+            }, {
+                "FileMark": "08-18-2008",
+                "Description": "CIT-C/M- RICHARD HUTTON \n",
+                "Fee": "58.00",
+                "Amount": ""
+            }, {
+                "FileMark": "08-18-2008",
+                "Description": "CIT-C/M- PATRICIA HUTTON \n",
+                "Fee": "58.00",
+                "Amount": ""
+            }, {
+                "FileMark": "09-08-2008",
+                "Description": "Ret Cit (Unex-PATRICIA HUTTON/UNCLAIMED) C/M \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "09-08-2008",
+                "Description": "Ret Cit (Unex-RICHARD HUTTON/UNCLAIMED) C/M \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "09-23-2008",
+                "Description": "PLEA OF INTERVENTION-EAGLE MOUNTAIN-SAGINAW ISD \n",
+                "Fee": "35.00",
+                "Amount": ""
+            }, {
+                "FileMark": "07-16-2009",
+                "Description": "CIT-CONST W/SVC-ISSUED ON PATRICIA HUTTON-On 07/16/2009\n",
+                "Fee": "58.00",
+                "Amount": ""
+            }, {
+                "FileMark": "07-16-2009",
+                "Description": "CIT-CONST W/SVC-ISSUED ON RICHARD HUTTON-On 07/16/2009\n",
+                "Fee": "58.00",
+                "Amount": ""
+            }, {
+                "FileMark": "07-31-2009",
+                "Description": "RET CIT (UNEX-RICHARD HUTTON) MOVED CP4 \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "07-31-2009",
+                "Description": "RET CIT (UNEX-PATRICIA HUTTON) MOVED CP4 \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "08-03-2009",
+                "Description": "Adjustment for service fee from # 9 \n",
+                "Fee": "0.00",
+                "Amount": ""
+            }, {
+                "FileMark": "08-03-2009",
+                "Description": "Adjustment for service fee from # 8 \n",
+                "Fee": "0.00",
+                "Amount": ""
+            }, {
+                "FileMark": "03-04-2010",
+                "Description": "CIT-C/M- PATRICIA HUTTON \n",
+                "Fee": "58.00",
+                "Amount": ""
+            }, {
+                "FileMark": "03-26-2010",
+                "Description": "RET CIT (UNEX-PATRICIA HUTTON) UNC/UTF C/M \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "11-18-2010",
+                "Description": "RETAIN LETTER \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "11-02-2011",
+                "Description": "PLTF 1ST AMEND PET TC ET AL \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "11-02-2011",
+                "Description": "AFFDT FOR CIT BY PUB RICHARD HUTTON,PATRICIA HUTTON\n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "11-09-2011",
+                "Description": "CIT BY PUB RICHARD HUTTON,PATRICIA HUTTON \n",
+                "Fee": "140.00",
+                "Amount": ""
+            }, {
+                "FileMark": "11-18-2011",
+                "Description": "RETAIN LETTER \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "12-29-2011",
+                "Description": "CIT BY PUB RICHARD HUTTON,PATRICIA HUTTON RET EXE 12/29/11\n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "02-21-2012",
+                "Description": "RECLASS TO ABSTRACTOR FEE CATEG \n",
+                "Fee": "0.00",
+                "Amount": ""
+            }, {
+                "FileMark": "11-15-2012",
+                "Description": "RETAIN LETTER \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "11-07-2013",
+                "Description": "RETAIN LETTER \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "08-22-2014",
+                "Description": "(PROPOSED)ORD APPTING AAL \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "08-22-2014",
+                "Description": "E-FILE TRANSACTION FEE \n",
+                "Fee": "2.00",
+                "Amount": ""
+            }, {
+                "FileMark": "08-28-2014",
+                "Description": "(Final) ORD TO APPT ATTY AAL - Tom Carr \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "08-28-2014",
+                "Description": "AD-LITEM FEE - ($350) \n",
+                "Fee": "350.00",
+                "Amount": ""
+            }, {
+                "FileMark": "09-08-2014",
+                "Description": "DEFN ORIG ANS RICHARD HUTTON AND PATRICIA HUTTON \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "09-08-2014",
+                "Description": "E-FILE TRANSACTION FEE \n",
+                "Fee": "2.00",
+                "Amount": ""
+            }, {
+                "FileMark": "09-08-2014",
+                "Description": "COURT COST (PAID) TRANS #30 \n",
+                "Fee": "",
+                "Amount": "2.00"
+            }, {
+                "FileMark": "10-22-2014",
+                "Description": "INTV PLTF 1ST AMD PET-EAGLE MOUNTAIN-SAGINAW ISD \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "10-22-2014",
+                "Description": "***INTERVENTION FEE \n",
+                "Fee": "65.00",
+                "Amount": ""
+            }, {
+                "FileMark": "10-22-2014",
+                "Description": "E-FILE TRANSACTION FEE \n",
+                "Fee": "2.00",
+                "Amount": ""
+            }, {
+                "FileMark": "10-24-2014",
+                "Description": "CIT-CONST W/SVC-ISSUED ON ADEBOLA OLATUNJI-On 10/24/2014\n",
+                "Fee": "83.00",
+                "Amount": ""
+            }, {
+                "FileMark": "11-20-2014",
+                "Description": "ORD TO RETAIN - LGBS \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "11-20-2014",
+                "Description": "RET EXEC CIT(ADEBOLA OLATUNJI)CP3 11/18/14 \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "12-11-2014",
+                "Description": "MTN FOR PARTIAL DISM-ADEBOLA OLATUNJI \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "12-11-2014",
+                "Description": "(PROPOSED)ORD FOR PARTIAL DISM \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "12-11-2014",
+                "Description": "E-FILE TRANSACTION FEE \n",
+                "Fee": "2.00",
+                "Amount": ""
+            }, {
+                "FileMark": "12-12-2014",
+                "Description": "ORD FOR PARTIAL DISM(FINAL)ADEBOLA OLATUNJI \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "12-26-2014",
+                "Description": "Adjustment for service fee from # 35 \n",
+                "Fee": "0.00",
+                "Amount": ""
+            }, {
+                "FileMark": "01-28-2015",
+                "Description": "NOT OF TRIAL SETTING-4/16/15 @ 10:30AM \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "01-28-2015",
+                "Description": "E-FILE TRANSACTION FEE \n",
+                "Fee": "2.00",
+                "Amount": ""
+            }, {
+                "FileMark": "04-24-2015",
+                "Description": "JDG-FINAL JDG AFTER NON JURY TRIAL Plaintiff and/or Intervenor exhibit\n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "02-28-2018",
+                "Description": "CVR LTR FOR NUNC PRO TUNC \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "02-28-2018",
+                "Description": "(PROPOSED) NUNC PRO TUNC \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "03-01-2018",
+                "Description": "NUNC PRO TUNC JDG \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "03-01-2018",
+                "Description": "DOCKET SHEET \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "05-04-2018",
+                "Description": "**ADJ FOR #33 SHOULDN'T CHARGE FOR AMDED INTV \n",
+                "Fee": "-65.00",
+                "Amount": ""
+            }, {
+                "FileMark": "05-08-2018",
+                "Description": "ORDER OF SALE-LGBS-ISSUED ON COUNTY OF TARRANT \n",
+                "Fee": "8.00",
+                "Amount": ""
+            }, {
+                "FileMark": "07-13-2018",
+                "Description": "COURT COST PAID BY DARRELL HUFFMAN CP3 \n",
+                "Fee": "",
+                "Amount": "1,231.00"
+            }, {
+                "FileMark": "07-13-2018",
+                "Description": "REGISTRY FUNDS - CHECK ACCOUNT #4 \n",
+                "Fee": "",
+                "Amount": "1.40"
+            }, {
+                "FileMark": "07-13-2018",
+                "Description": "RET O/S-SOLD-LAKSH INVESTMENTS($340CP3 $99ATTY) \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "07-16-2018",
+                "Description": "Registry Investment \n",
+                "Fee": "",
+                "Amount": "-1.40"
+            }, {
+                "FileMark": "08-27-2018",
+                "Description": "$$$-PAYOUT IN PROCESS-$$$ LGBS \n",
+                "Fee": "",
+                "Amount": "0.00"
+            }, {
+                "FileMark": "08-31-2018",
+                "Description": "TAX DISBURSE MAY 18 LGBS Check # 49300 \n",
+                "Fee": "",
+                "Amount": "-350.00"
+            }, {
+                "FileMark": "08-31-2018",
+                "Description": "TAX DISBURSE MAY 18 LGBS Check # 49300 \n",
+                "Fee": "",
+                "Amount": "-150.00"
+            }, {
+                "FileMark": "08-31-2018",
+                "Description": "TAX DISBURSE MAY 18 LGBS Check # 49300 \n",
+                "Fee": "",
+                "Amount": "-82.00"
+            }],
+            "parties": [{
+                "type": "PLTF",
+                "name": "COUNTY OF TARRANT ",
+                "status": "ACT ",
+                "atty": "MEEKS, STEPHEN T ",
+                "barid": "13901100TX",
+                "attystatus": "JDG ",
+                "attyphone": "817-877-4589",
+                "Mail": false,
+                "PartyName": "County Of Tarrant ",
+                "PartyNumber": "",
+                "PartyType": "PLAINTIFF",
+                "PartyStatus": "ACT ",
+                "AttorneyName": "Meeks, Stephen T ",
+                "AttorneyStatus": "JDG ",
+                "FirmPhone": "817-877-4589"
+            }, {
+                "type": "INTV",
+                "name": "EAGLE MOUNATAIN-SAGINAW ISD ",
+                "status": "ACT ",
+                "atty": "STAVINOHA, B LYNN ",
+                "barid": "19085800TX",
+                "attystatus": "JDG ",
+                "attyphone": "817-461-3344",
+                "Mail": true,
+                "PartyName": "Eagle Mounatain-saginaw Isd",
+                "PartyNumber": "4",
+                "PartyType": "INTERVENOR",
+                "PartyRelationship": "",
+                "PartyStatus": "ACTIVE",
+                "Address": "",
+                "Address2": "",
+                "City": "",
+                "State": "",
+                "Zip": "",
+                "Phone": "",
+                "AttorneyName": "Stavinoha, B Lynn",
+                "AttorneyEmail": "LSTAVINOHA@PBFCM.COM",
+                "AttorneyStatus": "JUDGMENT/ORDER",
+                "FirmName": "Perdue Brandon Fielder Collins & Mott Llp",
+                "FirmAddress": "P O BOX 13430",
+                "FirmCity": "Arlington",
+                "FirmState": "TX",
+                "FirmZip": "76094-0430",
+                "FirmPhone": "817-461-3344",
+                "FirmFax": "817-860-6509",
+                "Ignore": null
+            }, {
+                "type": "DEFN",
+                "name": "HUTTON, PATRICIA ",
+                "status": "ACT ",
+                "atty": "CARR, TOM ",
+                "barid": "03862800TX",
+                "attystatus": "JDL ",
+                "attyphone": "817-885-8500",
+                "Mail": true,
+                "PartyName": "Hutton, Patricia",
+                "PartyNumber": "3",
+                "PartyType": "DEFENDANT",
+                "PartyRelationship": "",
+                "PartyStatus": "ACTIVE",
+                "Address": "9600 Park Drive",
+                "Address2": "",
+                "City": "Fort Worth",
+                "State": "TX",
+                "Zip": "76179-5221",
+                "Phone": "",
+                "AttorneyName": "Carr, Tom",
+                "AttorneyEmail": "TOM@TOMCARRLAW.COM",
+                "AttorneyStatus": "JUDGMENT",
+                "FirmName": "Law Office Of Tom Carr",
+                "FirmAddress": "2501 PARKVIEW DR STE 405",
+                "FirmCity": "Fort Worth",
+                "FirmState": "TX",
+                "FirmZip": "76102-5816",
+                "FirmPhone": "817-885-8500",
+                "FirmFax": "817-885-8504",
+                "Ignore": null
+            }, {
+                "type": "DEFN",
+                "name": "HUTTON, RICHARD ",
+                "status": "ACT ",
+                "atty": "CARR, TOM ",
+                "barid": "03862800TX",
+                "attystatus": "JDL ",
+                "attyphone": "817-885-8500",
+                "Mail": true,
+                "PartyName": "Hutton, Richard",
+                "PartyNumber": "2",
+                "PartyType": "DEFENDANT",
+                "PartyRelationship": "",
+                "PartyStatus": "ACTIVE",
+                "Address": "9600 Park Dr",
+                "Address2": "",
+                "City": "Fort Worth",
+                "State": "TX",
+                "Zip": "76179-5221",
+                "Phone": "",
+                "AttorneyName": "Carr, Tom",
+                "AttorneyEmail": "TOM@TOMCARRLAW.COM",
+                "AttorneyStatus": "JUDGMENT",
+                "FirmName": "Law Office Of Tom Carr",
+                "FirmAddress": "2501 PARKVIEW DR STE 405",
+                "FirmCity": "Fort Worth",
+                "FirmState": "TX",
+                "FirmZip": "76102-5816",
+                "FirmPhone": "817-885-8500",
+                "FirmFax": "817-885-8504",
+                "Ignore": null
+            }, {
+                "type": "DEFN",
+                "name": "OLATUNJI, ADEBOLA ",
+                "status": "DIS ",
+                "atty": "",
+                "barid": "",
+                "attystatus": "",
+                "attyphone": "",
+                "Mail": true,
+                "PartyName": "Olatunji, Adebola",
+                "PartyNumber": "5",
+                "PartyType": "DEFENDANT",
+                "PartyRelationship": "",
+                "PartyStatus": "DISMISSED OR NON-SUITED",
+                "Address": "6700 David Ln",
+                "Address2": "",
+                "City": "Colleyville",
+                "State": "TX",
+                "Zip": "76034",
+                "Phone": "",
+                "Ignore": null
+            }],
+            "balance": "-582.00"
+        },
+        "_index": 4804,
+        "_nestingLevel": 0,
+        "county": "Tarrant County",
+        "sale_date": "7/3/2018",
+        "details.cause_nbr": "236-E24089-08",
+        "status": "Sold",
+        "details.case_style": "County Of Tarrant, Et Al Vs Richard Hutton, Et Al",
+        "prop_address_one": "0000 Park Dr",
+        "prop_address_two": "",
+        "prop_city": "Fort Worth",
+        "prop_state": "TX",
+        "value": "10183.00",
+        "minimum_bid": "9675.60",
+        "ExcessAmount": "1.40",
+        "balance": "-582.00",
+        "_viewIndex": 0
+    },
+    "index": 4804,
+    "viewIndex": 0,
+    "pageSize": 20,
+    "page": 0,
+    "level": 0,
+    "nestingPath": [0]
+}
